@@ -1,3 +1,8 @@
 Toto je text pridany pri vytvoreni souboru
+<<<<<<< HEAD
 Toto je text pridany v branch-A
 
+=======
+
+Toto je text pridany v branch-B
+>>>>>>> branch-B
